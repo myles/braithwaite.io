@@ -1,0 +1,4 @@
+name = "A Better Web Browser"
+published = 2017-12-15T10:00:00-05:00
+category = [ "Python", "Web Browser" ]
+summary = "A better web browser with Jupyter Notebook, Selenium, and Readability."
